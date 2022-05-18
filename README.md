@@ -9,4 +9,4 @@ The second TREE panel study (TREE2) covers a comparable population of school lea
 
 For more detail see project website www.tree.unibe.ch .
 
-For an conceptual overview of avialable data, [click here](https://github.com/TREE-panel/TREE2_release2021_Variable_List_conceptual) 
+For a conceptual overview of avialable data, [click here](https://github.com/TREE-panel/TREE2_release2021_Variable_List_conceptual) 
